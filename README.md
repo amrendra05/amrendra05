@@ -11,7 +11,7 @@ I specialize in transforming complex business requirements into scalable, secure
 - 🏆 **Certified GCP Professional Cloud Architect**
 - 🚀 Expert in **Serverless Orchestration** (Cloud Run, Cloud Functions)
 - 🔒 Security focused: **IAM Least Privilege**, **Secret Manager**, **VPC Networking**
-- 🛠 Infrastructure as Code: **Terraform**, **Deployment Manager**
+- 🛠 Infrastructure as Code: **Terraform**, **Deployment Manager**, **Google Cloud (CI/CD)**
 
 ---
 
